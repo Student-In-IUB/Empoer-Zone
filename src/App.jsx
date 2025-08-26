@@ -2,7 +2,7 @@ import { createBrowserRouter, Outlet, RouterProvider } from "react-router-dom";
 
 import Navbar from "./components/common/Navbar";
 import Footer from "./components/common/Footer";
-import Home from "./pages/Home";
+import Home from "./Pages/Home";
 import About from "./Pages/About";
 import Services from "./Pages/Services";
 
